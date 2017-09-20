@@ -15,7 +15,7 @@
 #define INF 1000000000
 using namespace std;
 //ワーシャルフロイド
-//グラフの全点間の最短距離を求める
+//グラフの全点間の最短距離を求める(配列に)
 //初期化はVを入力で受け取った直後
 //O(n^3)
 //これはAtcoder Beginner Contest 012のD問題
