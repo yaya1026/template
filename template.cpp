@@ -12,13 +12,15 @@
 #include <cstring>
 #include <vector>
 #define ll long long
+#define INF 1000000001;
 using namespace std;
+struct Edge{int from, to, cost};
 
 int main()
 {
     cin.tie(0);
     ios::sync_with_stdio(false);
-
+    
 
     return 0;
 }
